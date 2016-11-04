@@ -1,8 +1,4 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace HelloWorld
 {
@@ -15,7 +11,7 @@ namespace HelloWorld
 
         public static string CreateMessage()
         {
-            return "Hello World";
+            return "Hello World!";
         }
 
     }
