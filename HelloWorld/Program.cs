@@ -9,9 +9,14 @@ namespace HelloWorld
             Console.WriteLine(CreateMessage());
         }
 
+
+        /// <summary>
+        ///  Method to display simple text message
+        /// </summary>
+        /// <returns></returns>
         public static string CreateMessage()
         {
-            return "Hello World!";
+            return "Hello World";
 
         }
 
