@@ -11,7 +11,7 @@ namespace HelloWorld
 
 
         /// <summary>
-        ///  Method to display simple text message
+        ///  Method to display text message for testing purpose 
         /// </summary>
         /// <returns></returns>
         public static string CreateMessage()
