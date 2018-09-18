@@ -12,6 +12,7 @@ namespace HelloWorld
         public static string CreateMessage()
         {
             return "Hello World from dev branch";
+            var msg = "hello from dev 1";
 
         }
 
