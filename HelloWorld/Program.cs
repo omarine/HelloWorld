@@ -11,7 +11,7 @@ namespace HelloWorld
 
         public static string CreateMessage()
         {
-            return "Hello World from Git";
+            return "Hello World from dev branch";
 
         }
 
